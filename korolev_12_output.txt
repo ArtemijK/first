@@ -1,0 +1,9 @@
+NEW FILE, CREATED FROM BINARY
+
+usa 5 saab
+moskow 12 comac
+rostov 31 boing
+vlg 34 airbus
+vlg 169 boing
+india 269 atr
+sochi 384 mc
